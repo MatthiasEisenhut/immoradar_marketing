@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Yanice';
+  src: url('@/assets/fonts/yanice/Yanice-PKY5g.otf');
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('@/assets/fonts/quicksand/Quicksand_Light.otf');
+}
+
+@font-face {
+  font-family: 'Keep Calm';
+  src: url('@/assets/fonts/keep_calm/KeepCalm-Medium.ttf');
+}
