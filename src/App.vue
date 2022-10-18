@@ -6,18 +6,19 @@
   <section id="about">
     <div class="bg-[#4B506E] px-6 py-6">
       <span class="font-quicksand text-4xl text-white font-bold">About</span>
-      <p class="font-quicksand text-2xl py-4 text-white">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt exercitationem,
-        voluptates, fugiat aut excepturi, architecto adipisci nihil aliquid quam provident vero
-        natus officia pariatur nemo numquam. Aut veniam aliquam rem! Lorem ipsum dolor sit, amet
-        consectetur adipisicing elit. Incidunt exercitationem, voluptates, fugiat aut excepturi,
-        architecto adipisci nihil aliquid quam provident vero natus officia pariatur nemo numquam.
-        Aut veniam aliquam rem! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt
-        exercitationem, voluptates, fugiat aut excepturi, architecto adipisci nihil aliquid quam
-        provident vero natus officia pariatur nemo numquam. Aut veniam aliquam rem! Lorem ipsum
-        dolor sit, amet consectetur adipisicing elit. Incidunt exercitationem, voluptates, fugiat
-        aut excepturi, architecto adipisci nihil aliquid quam provident vero natus officia pariatur
-        nemo numquam. Aut veniam aliquam rem!
+      <p class="font-quicksand text-2xl py-4 text-white leading-relaxed">
+        Wenn man eine Immobilie kaufen möchte, geht das fast immer über einen Makler bzw. über das
+        Internet, wo allerdings auch ein Makler hinter den Inseraten steht. Ist es also von Vorteil,
+        die Kommunikation von Erwerbern und Suchern auf einer Webseite zu gestalten. Des Weiteren
+        stellt es sich oft als schwierig heraus, mehrere Immobilien, die nahe beieinander liegen zu
+        besichtigen oder die Umgebung („das Viertel“), ohne Anfrage an den Makler zu besichtigen.
+        <br />
+        Mit ImmoRadar möchten wir ein System schaffen, welches genau diese Schwierigkeiten
+        beseitigt. Als Verkäufer kann man direkt über unserer Plattform Immobilien an Kunden
+        vermitteln. Somit ist man nicht auf eine Immobilienvertriebsfirma angewiesen. Um die
+        Suche/Besichtigung von Immobilien zu erleichtern, werden potentiellen Käufern auf einer
+        Karte zum Verkauf stehende Immobilien angezeigt. Wenn Immobilien ins Auge stechen, kann man
+        den Verkäufer direkt kontaktieren und sich einen Termin zur Besichtigung ausmachen.
       </p>
     </div>
   </section>
