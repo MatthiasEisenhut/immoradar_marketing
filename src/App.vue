@@ -26,7 +26,7 @@
     <div class="bg-[#4B506E] px-6 py-6">
       <span class="font-quicksand text-4xl text-white font-bold">Roadmap</span>
       <div class="flex justify-center py-4">
-        <img class="" src="https://dummyimage.com/1024x720/ffffff/000000.png&text=Roadmap" alt="" />
+        <img class="" src="/images/roadmap.png" alt="" />
       </div>
     </div>
   </section>
