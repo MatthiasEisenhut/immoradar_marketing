@@ -1,5 +1,5 @@
 <template>
-  <div class=" flex flex-row justify-center gap-9">
+  <div class="flex flex-row flex-wrap sm:nowrap justify-center gap-9">
     <!-- Max -->
     <div class="w-64 max-w-sm bg-[#4B506E] rounded-lg">
       <div class="flex justify-end px-4 pt-4"></div>
