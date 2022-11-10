@@ -1,7 +1,8 @@
 <template>
-  <div class="start">
-    <NavBar></NavBar>
-    <i class="fa-solid fa-chevrons-down"></i>
+  <div
+    class="min-h-screen bg-[url('/images/mobile.png')] sm:bg-[url('/images/Start.png')] place-self-center"
+  >
+    <NavBar class="fixed top-0 right-0 left-0"></NavBar>
   </div>
   <section id="about">
     <div class="bg-[#4B506E] px-6 py-6">
@@ -12,7 +13,7 @@
         die Kommunikation von Erwerbern und Suchern auf einer Webseite zu gestalten. Des Weiteren
         stellt es sich oft als schwierig heraus, mehrere Immobilien, die nahe beieinander liegen zu
         besichtigen oder die Umgebung („das Viertel“), ohne Anfrage an den Makler zu besichtigen.
-        <br /><br>
+        <br /><br />
         Mit ImmoRadar möchten wir ein System schaffen, welches genau diese Schwierigkeiten
         beseitigt. Als Verkäufer kann man direkt über unserer Plattform Immobilien an Kunden
         vermitteln. Somit ist man nicht auf eine Immobilienvertriebsfirma angewiesen. Um die
@@ -43,10 +44,3 @@ import NavBar from '@/components/NavBar.vue';
 import TheTeam from '@/components/TheTeam.vue';
 import 'flowbite';
 </script>
-
-<style scoped>
-.start {
-  background-image: url('@/assets/Start.png');
-  min-height: 100vh;
-}
-</style>
